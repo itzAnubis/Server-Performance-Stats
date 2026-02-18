@@ -1,6 +1,6 @@
 # Server Performance Stats Script
 
-[Repo Link](https://github.com/itzAnubis/Server-Performance-Stats)
+[Project URL](https://roadmap.sh/projects/server-stats)
 
 A lightweight Bash script (`server-stats.sh`) that provides a snapshot of the current system performance. It is designed to run on any standard Linux environment to quickly monitor resource usage and identify resource-heavy processes.
 
